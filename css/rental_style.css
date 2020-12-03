@@ -1,0 +1,21 @@
+.reg_form
+{
+    margin-top: 150px;
+    margin-bottom: 20px;
+    background-image: url(../img/reg3.jpg);
+    background-size: cover;
+}
+.btncolor
+{
+    background-color: #bd9c50;
+    color: #fff;
+}
+.reg_footer
+{
+    padding-bottom:5px;
+}
+.fa_fa_color
+{
+    color:#CFB579;
+}
+

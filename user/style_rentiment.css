@@ -1,0 +1,103 @@
+.footer_part
+{
+    margin-top: 10px;  
+}
+
+.header_area
+{
+    margin-top: 180px;
+}
+.sidebar
+{
+    padding-top: 20px;
+}
+.left_area 
+{
+    color: #bd9c50;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 900; 
+}
+.logout_btn
+{
+    padding: 10px;
+    background-color: #bd9c50;
+    text-decoration: none;
+    float: right;
+    margin-top: -50px;
+    color: #fff;
+    border-radius: 5px;
+}
+.logout_btn:hover
+{
+    padding: 10px;
+    background-color: #fff;
+    text-decoration: none;
+    float: right;
+    margin-top: -50px;
+    color: #bd9c50;
+    font-weight: 600;
+}
+.sidebar
+{
+    background: #CFB579;
+    margin-top: 40px;
+    padding: 30px;
+    width: 300px;
+    
+}
+.sidebar .profile_image
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.sidebar h4
+{
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.sidebar a
+{
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    line-height: 60px;
+    padding-left: 5px;
+    box-sizing: border-box;
+    
+}
+.sidebar a:hover
+{
+    background: #bd9c50;
+    padding-left: 15px;
+}
+.sidebar span:hover
+{
+    color: #fff;
+    font-weight: 600;
+}
+.sidebar i:hover
+{
+    color: #fff;
+}
+label #sidebar_btn
+{
+    z-index: 1;
+    color: #bd9c50;
+    background-color: #fff;
+    cursor: pointer;
+    left: 300px;
+    font-size: 23px;
+    margin-left: 45px;
+    
+}
+label #sidebar_btn:hover
+{
+    color: #CFB579;
+    
+}
